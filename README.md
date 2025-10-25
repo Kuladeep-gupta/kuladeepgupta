@@ -3,7 +3,7 @@
 🎓 Master's Student at Binghamton University  
 💻 Aspiring Full-Stack Developer building interactive and efficient web applications.  
 🌱 Currently learning Data Structures & Algorithms, Java, Spring Boot, and React.  
-🚀 Actively working on portfolio projects and preparing for full-time software developer roles.
+🚀 Actively working on projects and preparing for full-time software developer roles.
 
 ---
 
