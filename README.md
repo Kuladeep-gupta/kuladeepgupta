@@ -33,6 +33,18 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## 🎓 Education
+- **Master's in Computer Science** – Binghamton University  
+- **Bachelor's in Computer Science** – VIT University ,Vellore
+
+
+
+## 🚀 Open to Roles
+- Full-Time Software Developer  
+- Full-Stack Developer  
+- Java Developer 
+
+
 
 ## 📫 Connect with Me  
 🌐 [LinkedIn](https://www.linkedin.com/in/kuladeep-n-v-p-s-gupta/)  
